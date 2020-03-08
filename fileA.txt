@@ -1,3 +1,7 @@
 "feature 1 with 2 bugs
 feature 2 wip" 
 feature 3 bugfix
+feature 3 bugfix
+feature 3 bugfix
+feature 3 bugfix
+feature 3 bugfix
